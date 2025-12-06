@@ -9,20 +9,20 @@ This repo contains my emotional damage, bad decisions, and occasionally working 
 
 ## 🤓 What I *think* I've learned so far
 
-### ✔ `#include <stdio.h>`
+###  `#include <stdio.h>`
 Not “studio.h”.  
 Not “stadio.h”.  
 Not “that file with printf in it”.  
 Just the standard I/O header that C forces you to worship.
 
-### ✔ `int main(void)`
+###  `int main(void)`
 The function where everything begins,  
 and also where everything goes wrong.
 
 Returns `0` for “success”.  
 Returns nothing if you enjoy compiler disappointment.
 
-### ✔ Semicolons
+###  Semicolons
 C loves semicolons so much  
 that missing ONE will summon **97 errors**.
 
@@ -30,7 +30,7 @@ that missing ONE will summon **97 errors**.
 
 ## 🔁 Loops (aka the part where sanity leaves)
 
-### 🔹 **For loops**
+###  **For loops**
 
 ```c
 for (int i = 0; i < 5; i++) {
@@ -52,7 +52,7 @@ for (int i = 0; i < 5; i++) {
 
 - Why memory management feels like dark magic
 
- ##My Goals
+ ## My Goals
 
 - Learn C without crying
 
